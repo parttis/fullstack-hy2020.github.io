@@ -14,7 +14,7 @@ Al crear notas en nuestra aplicación, deberíamos naturalmente desear almacenar
 
 El servidor json no coincide exactamente con la descripción proporcionada por la [definición](https://en.wikipedia.org/wiki/Representational_state_transfer) del libro de texto de una API REST, pero tampoco la mayoría de las otras API que afirman ser RESTful.
 
-Veremos más de cerca a REST en la [próxima parte](/es/part3) del curso, pero es importante familiarizarnos en este punto con algunas de las [convenciones](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_Web_services) utilizado por json-server y API REST en general. En particular, analizaremos el uso convencional de [rutas (routes)](https://github.com/typicode/json-server#routes), también conocido como URLs y tipos de solicitud HTTP, en REST.
+Veremos más de cerca a REST en la [próxima parte](/es/part3) del curso, pero es importante familiarizarnos en este punto con algunas de las [convenciones](https://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services) utilizado por json-server y API REST en general. En particular, analizaremos el uso convencional de [rutas (routes)](https://github.com/typicode/json-server#routes), también conocido como URLs y tipos de solicitud HTTP, en REST.
 
 ### REST
 
