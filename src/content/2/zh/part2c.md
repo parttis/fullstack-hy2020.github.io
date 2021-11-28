@@ -732,7 +732,7 @@ Error: listen EADDRINUSE 0.0.0.0:3001
 Api [https://restcountries.com](https://restcountries.com) 以机器可读的格式，提供了不同国家的大量数据。即所谓的 REST API。 
 
 <!-- Create an application, in which one can look at data of various countries. The application should probably get the data from the endpoint [all](https://restcountries.com/#api-endpoints-all). -->
-创建一个应用，可以查看不同国家的数据。 应用能从[all](https://restcountries.com/#api-endpoints-all)中获取数据。
+创建一个应用，可以查看不同国家的数据。 应用能从[all](https://restcountries.com/#api-endpoints-v3-all)中获取数据。
 
 <!-- The user interface is very simple. The country to be shown is found by typing a search query into the search field. -->
 用户界面非常简单。 通过在搜索字段中键入搜索查询，可以找到要显示的国家。
