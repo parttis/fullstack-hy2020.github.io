@@ -64,7 +64,7 @@ Cuando la aplicación "no funciona", primero tenemos que averiguar dónde ocurre
 
 La clave es ser sistemático. Dado que el problema puede existir en cualquier lugar, <i>debes cuestionarlo todo</i> y eliminar todas las posibilidades una por una. Iniciar sesión en la consola, Postman, debuggeres y la experiencia serán de ayuda.
 
-Cuando ocurren errores, <i>la peor de todas las estrategias posibles</i> es continuar escribiendo código. Garantizará que su código pronto tendrá aún más errores, y debuggearlos será aún más difícil. El principio de [detenerse y reparar](http://gettingtolean.com/toyota-principle-5-build-culture-stopping-fix/#.Wjv9axP1WCQ) de Toyota Production Systems también es muy eficaz en esta situación.
+Cuando ocurren errores, <i>la peor de todas las estrategias posibles</i> es continuar escribiendo código. Garantizará que su código pronto tendrá aún más errores, y debuggearlos será aún más difícil. El principio de [detenerse y reparar](http://gettingtolean.com/toyota-principle-5-build-culture-stopping-fix/) de Toyota Production Systems también es muy eficaz en esta situación.
 
 
 ### MongoDB
@@ -77,7 +77,7 @@ Puede leer más sobre bases de datos de documentos y NoSQL en el material del cu
 
 Lea ahora los capítulos sobre [colecciones](https://docs.mongodb.com/manual/core/databases-and-collections/) y [documentos](https://docs.mongodb.com/manual/core/document/) del manual de MongoDB para tener una idea básica de cómo una base de datos de documentos almacena datos.
 
-Naturalmente, puede instalar y ejecutar MongoDB en su propia computadora. Sin embargo, Internet también está lleno de servicios de base de datos de Mongo que puede utilizar. Nuestro proveedor preferido de MongoDB en este curso será [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
+Naturalmente, puede instalar y ejecutar MongoDB en su propia computadora. Sin embargo, Internet también está lleno de servicios de base de datos de Mongo que puede utilizar. Nuestro proveedor preferido de MongoDB en este curso será [MongoDB Atlas](https://www.mongodb.com/atlas/database).
 
 Una vez que haya creado e iniciado sesión en su cuenta, Atlas recomendará crear un clúster:
 
