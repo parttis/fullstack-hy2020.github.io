@@ -11,7 +11,7 @@ Antes de pasar al tema principal de la persistencia de datos en una base de dato
 
 ### Debugging en aplicaciones de Node
 
-Debuggear aplicaciones de Node es un poco más difícil que debuggear JavaScript que se ejecuta en su navegador. Imprimir en la consola es un método probado y verdadero, y siempre vale la pena hacerlo. Hay personas que piensan que se deberían utilizar métodos más sofisticados en su lugar, pero no estoy de acuerdo. Incluso los desarrolladores de código abierto de élite del mundo [utilizan](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html) este [método](https://swizec.com/blog/javascript-debugging-slightly-beyond-console-log/swizec/6633).
+Debuggear aplicaciones de Node es un poco más difícil que debuggear JavaScript que se ejecuta en su navegador. Imprimir en la consola es un método probado y verdadero, y siempre vale la pena hacerlo. Hay personas que piensan que se deberían utilizar métodos más sofisticados en su lugar, pero no estoy de acuerdo. Incluso los desarrolladores de código abierto de élite del mundo [utilizan](https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html) este [método](https://swizec.com/blog/javascript-debugging-slightly-beyond-consolelog/).
 
 
 #### Visual Studio Code
